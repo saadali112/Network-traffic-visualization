@@ -26,7 +26,8 @@ A Python-based tool that analyzes network traffic using Wireshark captures, clas
 - Wireshark (for packet capture)
 - [GeoLiteCity Database](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data) (Place in project root)
 
-- 🤝## How to Contribute
+  
+🤝## How to Contribute
 Fork the repository
 
 Create a feature branch (git checkout -b feature/your-feature)
