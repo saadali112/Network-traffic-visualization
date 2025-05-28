@@ -1,13 +1,5 @@
-Thanks for sharing your project. Based on your earlier project description and the contents of your ZIP file, here's a **professional `README.md`** file you can include in your GitHub repository:
 
----
-
-````markdown
 # 🌐 Network Traffic Visualization
-
-![Wireshark Capture](images/01.png) | ![GeoIP Visualization](images/02.png)
-:-------------------------:|:-------------------------:
-*Figure 1: Wireshark Interface*  |  *Figure 2: Google Maps Visualization*
 
 ## 📖 Overview
 
