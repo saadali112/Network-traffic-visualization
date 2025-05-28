@@ -26,31 +26,7 @@ A Python-based tool that analyzes network traffic using Wireshark captures, clas
 - Wireshark (for packet capture)
 - [GeoLiteCity Database](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data) (Place in project root)
 
-### Installation
-```bash
-git clone https://github.com/saadali112/Network-traffic-visualization.git
-cd Network-traffic-visualization
-pip install -r requirements.txt
-
-Usage
-Capture Traffic:
-
-Use Wireshark to record packets
-
-Save as wire.pcap in project root
-
-Run Analysis:
-
-bash
-python src/network_traffic.py
-View Results:
-
-Open output/file.kml in Google Earth
-
-Or import to Google My Maps
-
->
-🤝 How to Contribute
+- 🤝## How to Contribute
 Fork the repository
 
 Create a feature branch (git checkout -b feature/your-feature)
@@ -61,9 +37,12 @@ Push to branch (git push origin feature/your-feature)
 
 Open a Pull Request
 
-📜 License
-MIT License - See LICENSE for details.
+### Installation
+```bash
+git clone https://github.com/saadali112/Network-traffic-visualization.git
+cd Network-traffic-visualization
+pip install -r requirements.txt
 
-📧 Contact
-Saad Ali
-📧 saadali@example.com
+
+
+
