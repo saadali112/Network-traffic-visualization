@@ -9,6 +9,7 @@ Network Traffic Visualization is a Python-based tool that enables users to analy
 🌍 Geo Mapping: Maps IPs to geographic locations using the GeoLiteCity database.
 🗺️ KML File Generation: Creates KML files that can be opened in Google Earth or Maps.
 🧩 Modular Architecture: Easily extendable for advanced applications like intrusion detection systems (IDS).
+
 🛠️ Technical Stack
 Component	Technology Used
 Packet Analysis	dpkt, Wireshark
@@ -26,6 +27,7 @@ Download and place GeoLiteCity.dat in the root directory of the project.
 git clone https://github.com/saadali112/Network-traffic-visualization.git
 cd Network-traffic-visualization
 pip install -r requirements.txt
+
 📊 Usage
 Capture network traffic using Wireshark and save it as a .pcap file.
 Place the .pcap file in the project root.
