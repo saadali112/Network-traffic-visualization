@@ -1,7 +1,3 @@
-Absolutely! Here’s a **professional, polished README** for your **Network Traffic Visualization** project. I’ve formatted it in a clear, structured, GitHub-ready style:
-
----
-
 # Network Traffic Visualization
 
 **Network Traffic Visualization** is a Python-based tool designed to analyze network traffic captured in `.pcap` files and visualize IP communication geographically using KML (Keyhole Markup Language). The project helps users understand the origin and destination of network traffic, classify IP addresses, and map them using GeoIP data.
@@ -89,15 +85,3 @@ python3 main.py <your_file.pcap>
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for improvements, additional features, or bug fixes.
-
----
-
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
-I can also make a **more eye-catching version with badges, GIF demo, and setup instructions for beginners** if you want it **ready for GitHub showcase**.
-
-Do you want me to do that next?
